@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<empleados>
+    <empleado>
+        <nombre>Persona número 1</nombre>
+        <puesto>Jefe</puesto>
+        <edad>28</edad>
+        <sueldo>2200</sueldo>
+    </empleado>
+    <empleado>
+        <nombre>Persona número 2</nombre>
+        <puesto>Encargado</puesto>
+        <edad>32</edad>
+        <sueldo>1600</sueldo>
+    </empleado>
+    <empleado>
+        <nombre>Persona número 3</nombre>
+        <puesto>Cajero</puesto>
+        <edad>34</edad>
+        <sueldo>800</sueldo>
+    </empleado>
+    <empleado>
+        <nombre>Persona número 4</nombre>
+        <puesto>Manager</puesto>
+        <edad>46</edad>
+        <sueldo>1450</sueldo>
+    </empleado>
+    <empleado>
+        <nombre>Persona número 5</nombre>
+        <puesto>Dueño</puesto>
+        <edad>63</edad>
+        <sueldo>3200</sueldo>
+    </empleado>
+</empleados>

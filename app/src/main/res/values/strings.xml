@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">JM_XML</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_ej1__empresa">EJ1_Empresa</string>
+    <string name="title_activity_ej2__tiempo">Ej2_Tiempo</string>
+    <string name="title_activity_ej3__bicicletas">Ej3_Bicicletas</string>
+    <string name="title_activity_ej4__noticias">Ej4_Noticias</string>
+    <string name="EJ1_NumeroEmp">Número de empleados:</string>
+    <string name="EJ1_Edad">Edad media de los trabajadores:</string>
+    <string name="EJ1_SueldoMin">Sueldo más bajo de la empresa:</string>
+    <string name="EJ1_SueldoMax">Sueldo más alto de la empresa:</string>
+    <string name="EJ1">Ejercicio 1</string>
+    <string name="EJ2">Ejercicio 2</string>
+    <string name="EJ3">Ejercicio 3</string>
+    <string name="EJ4">Ejercicio 4</string>
+</resources>

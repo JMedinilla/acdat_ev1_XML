@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.examen.pablo.jm_xml">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".EJ1_Empresa"
+            android:label="@string/title_activity_ej1__empresa"></activity>
+        <activity
+            android:name=".Ej2_Tiempo"
+            android:label="@string/title_activity_ej2__tiempo"></activity>
+        <activity
+            android:name=".Ej3_Bicicletas"
+            android:label="@string/title_activity_ej3__bicicletas"></activity>
+        <activity
+            android:name=".Ej4_Noticias"
+            android:label="@string/title_activity_ej4__noticias"></activity>
+        <activity android:name=".AdaptadorBicis"></activity>
+    </application>
+
+</manifest>
